@@ -1,6 +1,7 @@
-<div align="center">
-![](https://github.com/ansarinaveddev/ansarinaveddev/blob/main/giphy.gif)
+<div style="text-align: center;">
+    <img src="https://github.com/ansarinaveddev/ansarinaveddev/blob/main/giphy.gif" alt="Centered Image">
 </div>
+
 <h1 align="center">Hi 👋, I'm Naved Ansari</h1>
 <h3 align="center">Software Engineer, Software developer</h3>
 
