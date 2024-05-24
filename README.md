@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: "center";">
     <img src="https://github.com/ansarinaveddev/ansarinaveddev/blob/main/giphy.gif" alt="Centered Image">
 </div>
 
