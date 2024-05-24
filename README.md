@@ -1,5 +1,6 @@
+<div align="center">
 ![](https://github.com/ansarinaveddev/ansarinaveddev/blob/main/giphy.gif)
-
+</div>
 <h1 align="center">Hi 👋, I'm Naved Ansari</h1>
 <h3 align="center">Software Engineer, Software developer</h3>
 
